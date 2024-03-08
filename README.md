@@ -1,1 +1,0 @@
-# ascii-doc-test
